@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fhirclient": "^2.1.0",
+    "serve": "^11.2.0"
+  }
+}
